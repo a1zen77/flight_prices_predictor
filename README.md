@@ -1,1 +1,2 @@
 # flight_prices_predictor
+The Flight Price Predictor is a web application that predicts flight prices using a trained Linear Regression model. The backend is built with Flask to serve the model, while the frontend is developed with ReactJS and styled using TailwindCSS. Users can input flight details such as origin, destination, and duration, and the app will predict the flight price in real-time. The project combines machine learning, a responsive UI, and a simple Flask API to provide an interactive and user-friendly experience.
